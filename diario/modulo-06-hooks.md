@@ -14,7 +14,8 @@ Comandos que rodam automaticamente em momentos específicos — sem você precis
 ## Onde ficam
 No `settings.json`, dentro da chave `hooks`.
 
-## Exemplo: notificação quando o Claude termina
+## Exemplo completo: dois hooks úteis para o dia a dia
+
 ```json
 {
   "hooks": {
@@ -27,12 +28,34 @@ No `settings.json`, dentro da chave `hooks`.
           }
         ]
       }
+    ],
+    "Notification": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "osascript -e 'display notification \"Claude precisa da sua atenção!\" with title \"Claude Code\" sound name \"Glass\"'"
+          }
+        ]
+      }
     ]
   }
 }
 ```
 
-Este hook mostra uma notificação no Mac com som quando o Claude para de responder — útil para tarefas longas onde você vai fazer outra coisa enquanto espera.
+**Stop + Blow:** toca quando o Claude termina de responder — útil para tarefas longas onde você vai fazer outra coisa enquanto espera.
+
+**Notification + Glass:** toca quando o Claude para aguardando sua permissão ou resposta — para você não perder o momento e deixar ele travado esperando.
+
+Os sons são diferentes de propósito: você sabe pelo som o que está acontecendo sem precisar olhar a tela.
+
+### Sons disponíveis no Mac
+`Basso`, `Blow`, `Bottle`, `Frog`, `Funk`, `Glass`, `Hero`, `Morse`, `Pop`, `Purr`, `Sosumi`, `Submarine`, `Tink`
+
+Para testar um som antes de escolher:
+```bash
+afplay /System/Library/Sounds/Glass.aiff
+```
 
 ## Diferença entre hook e instrução no CLAUDE.md
 - **CLAUDE.md:** o Claude lê e tenta seguir — mas é uma instrução de comportamento
