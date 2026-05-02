@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Read"
+    ],
+    "deny": [
+      "Bash(rm -rf *)",
+      "Bash(curl * | bash *)"
+    ]
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "osascript -e 'display notification \"Claude terminou!\" with title \"Claude Code\" sound name \"Blow\"'"
+          }
+        ]
+      }
+    ]
+  }
+}
