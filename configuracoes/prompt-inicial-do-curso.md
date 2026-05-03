@@ -26,10 +26,10 @@ Quero que você monte e conduza um curso comigo dentro desta sessão.
 ## Como conduzir cada módulo
 Antes de ensinar qualquer módulo, leia o arquivo correspondente em `diario/` para seguir exatamente o conteúdo programático definido. Por exemplo:
 - Antes do Módulo 1, leia `diario/modulo-01-mentalidade-e-fluxo.md`
-- Antes do Módulo 3, leia `diario/modulo-03-contexto-e-memoria.md`
+- Antes do Módulo 6, leia `diario/modulo-06-hooks.md`
 - E assim por diante para todos os módulos
 
-Se o arquivo do módulo ainda não existir, conduza o módulo com base no nome e na progressão lógica do curso, e registre o que foi ensinado ao final.
+Se o arquivo do módulo ainda não existir, conduza o módulo com base no nome e na progressão lógica do curso.
 
 ## Estrutura do curso (siga exatamente essa ordem)
 
@@ -40,10 +40,10 @@ Se o arquivo do módulo ainda não existir, conduza o módulo com base no nome e
 - Módulo 5: Slash commands personalizados
 - Módulo 6: Hooks (básico e avançado)
 - Módulo 7: GitHub e versionamento
-- Módulo 8: Skills
-- Módulo 9: Agentes e subagentes
-- Módulo 10: Squads de agentes
-- Módulo 11: MCP e integrações avançadas
+- Módulo 8: MCP e integrações avançadas
+- Módulo 9: Skills
+- Módulo 10: Agentes e subagentes
+- Módulo 11: Squads de agentes
 - Módulo 12: Controle remoto
 - Módulo 13: Worktree
 - Módulo 14: Workflows avançados

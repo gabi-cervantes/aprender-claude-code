@@ -22,10 +22,10 @@ Se o arquivo não existir, conduza com base na progressão lógica e registre o 
 5. Slash commands personalizados
 6. Hooks (básico e avançado)
 7. GitHub e versionamento
-8. Skills
-9. Agentes e subagentes
-10. Squads de agentes
-11. MCP e integrações avançadas
+8. MCP e integrações avançadas
+9. Skills
+10. Agentes e subagentes
+11. Squads de agentes
 12. Controle remoto
 13. Worktree
 14. Workflows avançados
