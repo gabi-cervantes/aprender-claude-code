@@ -26,13 +26,13 @@ Uma equipe de agentes com papéis fixos. Cada um tem uma função definida — u
 
 ## Tipos de agentes
 
-| Tipo | O que faz | Exemplo |
+| Tipo | O que faz | Exemplo (squad de carrossel para Instagram) |
 |---|---|---|
-| **Orquestrador** | Coordena, delega e consolida. É o "chefe" do fluxo | Agente central que recebe sua ideia e aciona os outros |
-| **Executor** | Recebe uma tarefa específica e executa. Não decide nada | Agente que gera títulos ou faz pesquisa de keywords |
-| **Crítico/Revisor** | Avalia o output de outro agente antes de chegar em você | Agente que revisa um roteiro antes da entrega final |
-| **Monitor** | Fica de olho em algo ao longo do tempo e dispara alertas | Agente que monitora métricas após publicação |
-| **Pesquisador** | Busca informação externa e traz de volta | Agente que pesquisa tendências do nicho |
+| **Orquestrador** | Coordena, delega e consolida. É o "chefe" do fluxo | Recebe o tema do carrossel e aciona os outros agentes |
+| **Executor** | Recebe uma tarefa específica e executa. Não decide nada | Escreve o texto de cada slide seguindo o briefing |
+| **Crítico/Revisor** | Avalia o output de outro agente antes de chegar em você | Revisa se o carrossel está claro, atrativo e com bom CTA |
+| **Monitor** | Fica de olho em algo ao longo do tempo e dispara alertas | Acompanha o engajamento do post e sugere ajustes |
+| **Pesquisador** | Busca informação externa e traz de volta | Pesquisa referências e tendências do nicho antes de criar |
 
 ---
 
