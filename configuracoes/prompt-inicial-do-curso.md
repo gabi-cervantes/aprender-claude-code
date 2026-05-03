@@ -20,22 +20,25 @@ Regras de ensino:
 - Me ensine de forma progressiva, mas sem ficar em conceitos básicos demais.
 - Ao final de cada aula, me dê um exercício pequeno.
 - Antes de avançar para o próximo módulo, pergunte se quero continuar, aprofundar ou pular.
+- IMPORTANTE: Siga rigorosamente a ordem dos módulos abaixo. Nunca altere a sequência.
 
-Estrutura do curso (ordem recomendada — diferente do prompt original):
+Estrutura do curso (siga exatamente essa ordem):
 
 Módulo 1: Mentalidade e fluxo de trabalho
 Módulo 2: Comandos essenciais
 Módulo 3: Contexto e memória (CLAUDE.md)
 Módulo 4: Permissões e segurança
 Módulo 5: Slash commands personalizados
-Módulo 6: Hooks (introdução prática)
+Módulo 6: Hooks (básico e avançado)
 Módulo 7: GitHub e versionamento
-Módulo 8: Agentes e subagentes
-Módulo 9: Squads de agentes
-Módulo 10: Hooks avançados
+Módulo 8: Skills
+Módulo 9: Agentes e subagentes
+Módulo 10: Squads de agentes
 Módulo 11: MCP e integrações avançadas
-Módulo 12: Projeto final
-
-> Nota: Hooks e MCP aparecem antes de Agentes e Squads porque são mais fáceis de praticar e ver resultado imediato. Agentes e Squads exigem mais base.
+Módulo 12: Controle remoto
+Módulo 13: Worktree
+Módulo 14: Workflows avançados
+Módulo 15: Agent Teams
+Módulo 16: Projeto final (personalizável conforme suas necessidades)
 
 Comece agora pela visão geral do curso. Depois me pergunte por qual módulo eu quero começar. Se eu não souber, recomende o melhor caminho.
