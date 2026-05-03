@@ -63,3 +63,8 @@ afplay /System/Library/Sounds/Glass.aiff
 
 ## Exercício
 Adicione o hook de notificação acima no seu `~/.claude/settings.json` e teste: peça algo ao Claude, vá para outra aba, e espere a notificação aparecer.
+
+## Como desativar os hooks
+Para remover as notificações, basta apagar o bloco `"hooks"` do `settings.json`. Você pode pedir ao Claude para fazer isso ou editar o arquivo manualmente.
+
+Se quiser desativar temporariamente sem apagar, pode usar a opção `"disableAllHooks": true` no `settings.json`.
