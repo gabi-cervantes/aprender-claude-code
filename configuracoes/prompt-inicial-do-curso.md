@@ -44,10 +44,9 @@ Se o arquivo do módulo ainda não existir, conduza o módulo com base no nome e
 - Módulo 9: Skills
 - Módulo 10: Agentes e subagentes
 - Módulo 11: Squads de agentes
-- Módulo 12: Controle remoto
-- Módulo 13: Worktree
-- Módulo 14: Workflows avançados
-- Módulo 15: Agent Teams
-- Módulo 16: Projeto final (personalizável conforme suas necessidades)
+- Módulo 12: Worktree
+- Módulo 13: Workflows avançados
+- Módulo 14: Agent Teams
+- Módulo 15: Projeto final (personalizável conforme suas necessidades)
 
 Comece agora pela visão geral do curso. Depois me pergunte por qual módulo quero começar. Se eu não souber, recomende o melhor caminho.

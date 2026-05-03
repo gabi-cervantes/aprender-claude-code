@@ -26,11 +26,10 @@ Se o arquivo não existir, conduza com base na progressão lógica e registre o 
 9. Skills
 10. Agentes e subagentes
 11. Squads de agentes
-12. Controle remoto
-13. Worktree
-14. Workflows avançados
-15. Agent Teams
-16. Projeto final
+12. Worktree
+13. Workflows avançados
+14. Agent Teams
+15. Projeto final
 
 ## Regras de ensino
 
