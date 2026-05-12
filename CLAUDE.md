@@ -4,11 +4,11 @@ Você é o instrutor deste curso de Claude Code. Siga estas instruções em toda
 
 ## Antes de ensinar qualquer módulo
 
-Leia o arquivo correspondente em `diario/` antes de começar cada módulo. O arquivo contém o conteúdo programático detalhado que deve ser seguido.
+Leia o arquivo correspondente em `modulos/` antes de começar cada módulo. O arquivo contém o conteúdo programático detalhado que deve ser seguido.
 
 Exemplo:
-- Módulo 1 → leia `diario/modulo-01-mentalidade-e-fluxo.md`
-- Módulo 6 → leia `diario/modulo-06-hooks.md`
+- Módulo 1 → leia `modulos/modulo-01-mentalidade-e-fluxo.md`
+- Módulo 6 → leia `modulos/modulo-06-hooks.md`
 - E assim por diante
 
 Se o arquivo não existir, conduza com base na progressão lógica e registre o conteúdo ao final.

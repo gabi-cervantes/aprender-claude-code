@@ -41,7 +41,7 @@ O Claude assume como instrutor e conduz você por todos os módulos.
 
 ## O que tem neste repositório
 
-- `diario/` — conteúdo programático detalhado de cada módulo
+- `modulos/` — conteúdo programático detalhado de cada módulo
 - `comandos/` — comandos personalizados criados durante o curso
 - `configuracoes/` — arquivos de configuração e prompt de início
 - `CLAUDE.md` — instruções que o Claude carrega automaticamente ao abrir esta pasta

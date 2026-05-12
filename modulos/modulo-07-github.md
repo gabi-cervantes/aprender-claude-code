@@ -39,4 +39,4 @@ O Claude executa o `git add`, `git commit` e `git push` por você.
 O GitHub não aceita sua senha normal — exige um **token** (senha especial gerada nas configurações da sua conta). Gere em: GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic).
 
 ## Exercício
-Crie um arquivo `diario/meu-primeiro-dia.md` com um resumo do que você aprendeu hoje e suba para o GitHub usando os 3 comandos acima.
+Crie um arquivo `modulos/meu-primeiro-dia.md` com um resumo do que você aprendeu hoje e suba para o GitHub usando os 3 comandos acima.

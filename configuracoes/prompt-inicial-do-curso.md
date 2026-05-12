@@ -24,9 +24,9 @@ Quero que você monte e conduza um curso comigo dentro desta sessão.
 - IMPORTANTE: Siga rigorosamente a ordem dos módulos abaixo. Nunca altere a sequência.
 
 ## Como conduzir cada módulo
-Antes de ensinar qualquer módulo, leia o arquivo correspondente em `diario/` para seguir exatamente o conteúdo programático definido. Por exemplo:
-- Antes do Módulo 1, leia `diario/modulo-01-mentalidade-e-fluxo.md`
-- Antes do Módulo 6, leia `diario/modulo-06-hooks.md`
+Antes de ensinar qualquer módulo, leia o arquivo correspondente em `modulos/` para seguir exatamente o conteúdo programático definido. Por exemplo:
+- Antes do Módulo 1, leia `modulos/modulo-01-mentalidade-e-fluxo.md`
+- Antes do Módulo 6, leia `modulos/modulo-06-hooks.md`
 - E assim por diante para todos os módulos
 
 Se o arquivo do módulo ainda não existir, conduza o módulo com base no nome e na progressão lógica do curso.
