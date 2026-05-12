@@ -7,7 +7,7 @@ Este repositório é um curso prático de Claude Code — conduzido pelo própri
 ### 1. Instale o Claude Code
 Assista a esse vídeo para aprender a instalar o Claude Code no seu computador: https://youtu.be/s829RYPWwU0
 
-### 2. Cole essa mensagem no seu Claude
+### 2. Abra uma nova conversa no Claude Code e cole essa mensagem
 
 > Clona esse repositório pra mim e inicia o curso: https://github.com/gabi-cervantes/aprender-claude-code
 
