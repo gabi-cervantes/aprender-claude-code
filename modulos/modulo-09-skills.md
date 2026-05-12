@@ -23,17 +23,13 @@ Pense assim:
 
 ## Tipos de skills
 
-**Skills de persona/público**
-Simulam como um público específico reagiria a um conteúdo. Funcionam como lentes de avaliação.
-
-Exemplo: `skill_publico_empreendedor.md` — contém dores, desejos, objeções e critérios de clique desse público.
-
 **Skills operacionais**
 Seguem um protocolo para executar uma tarefa específica.
 
-Exemplos:
+Exemplo: `skill_revisao_copy.md` — recebe um texto e aplica um protocolo de revisão: clareza, chamada para ação, tom de voz, cortes desnecessários.
+
+Outros exemplos:
 - skill de criação de títulos
-- skill de revisão de copy
 - skill de estrutura de roteiro
 - skill de pesquisa de keywords
 
@@ -107,7 +103,7 @@ O CLAUDE.md do projeto referencia quais skills estão disponíveis e quando usá
 ## Exemplos de skills que você já usa
 
 - `/resumir` — skill de resumo de sessão (criada no Módulo 5 como slash command)
-- Skills de público no Opensquad — simulam a reação de audiências específicas
+- `skill_revisao_copy.md` — protocolo de revisão de textos aplicado por um agente de conteúdo
 
 ---
 
