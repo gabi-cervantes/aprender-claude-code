@@ -1,4 +1,4 @@
-# Módulo 8 — Agentes e Subagentes
+# Módulo 10 — Agentes e Subagentes
 
 ## O que é um agente?
 

@@ -1,4 +1,4 @@
-# Módulo 10 — Skills
+# Módulo 9 — Skills
 
 ## O que é uma skill?
 

@@ -1,4 +1,4 @@
-# Módulo 9 — Squads de Agentes
+# Módulo 11 — Squads de Agentes
 
 ## O que é um squad?
 
