@@ -1,41 +1,45 @@
 # Aprender Claude Code
 
-Este repositório documenta minha jornada aprendendo Claude Code — e serve de guia para você fazer o mesmo curso.
-
-## O que é Claude Code?
-
-Claude Code é uma ferramenta da Anthropic que permite trabalhar com o Claude diretamente no seu computador, dentro de projetos reais. Diferente do chat normal, ele consegue ler arquivos, rodar comandos e te ajudar de forma muito mais prática.
+Este repositório é um curso prático de Claude Code — conduzido pelo próprio Claude, como instrutor.
 
 ## Como iniciar o curso
 
-### 1. Crie uma conta no Claude
-Acesse [claude.ai](https://claude.ai) e crie sua conta gratuitamente.
+### 1. Instale o Claude Code
+Assista a esse vídeo para aprender a instalar o Claude Code no seu computador: https://youtu.be/s829RYPWwU0
 
-### 2. Instale o Claude Code
-Baixe em [claude.ai/code](https://claude.ai/code) e siga as instruções de instalação.
+### 2. Cole essa mensagem no seu Claude
 
-### 3. Clone este repositório no seu computador
-O curso usa os arquivos da pasta `diario/` como conteúdo programático de cada módulo. Por isso, você precisa ter os arquivos localmente.
+> Clona esse repositório pra mim e inicia o curso: https://github.com/gabi-cervantes/aprender-claude-code
 
-No terminal, rode:
-```bash
-git clone https://github.com/gabi-cervantes/aprender-claude-code.git
-```
+### 3. Comece a estudar no seu ritmo
 
-Depois abra a pasta clonada no Claude Code:
-```bash
-cd aprender-claude-code
-claude
-```
+O Claude assume como instrutor e conduz você por todos os módulos.
 
-### 4. Inicie o curso
-Com a pasta aberta no Claude Code, copie o conteúdo do arquivo [`configuracoes/prompt-inicial-do-curso.md`](configuracoes/prompt-inicial-do-curso.md) e cole diretamente no Claude.
+---
 
-Ele vai ler os arquivos do curso e conduzir cada módulo com o conteúdo programático correto.
+## O que você vai aprender (15 módulos)
 
-## O que tem aqui
+1. Mentalidade e fluxo de trabalho
+2. Comandos essenciais
+3. Contexto e memória (CLAUDE.md)
+4. Permissões e segurança
+5. Slash commands personalizados
+6. Hooks (básico e avançado)
+7. GitHub e versionamento
+8. MCP e integrações avançadas
+9. Skills
+10. Agentes e subagentes
+11. Squads de agentes
+12. Worktree
+13. Workflows avançados
+14. Agent Teams
+15. Projeto final
+
+---
+
+## O que tem neste repositório
 
 - `diario/` — conteúdo programático detalhado de cada módulo
 - `comandos/` — comandos personalizados criados durante o curso
-- `configuracoes/` — arquivos de configuração e o prompt para iniciar o curso
+- `configuracoes/` — arquivos de configuração e prompt de início
 - `CLAUDE.md` — instruções que o Claude carrega automaticamente ao abrir esta pasta

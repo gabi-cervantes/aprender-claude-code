@@ -31,6 +31,17 @@ Se o arquivo não existir, conduza com base na progressão lógica e registre o 
 14. Agent Teams
 15. Projeto final
 
+## Início automático do curso
+
+Se o usuário mandar qualquer mensagem pedindo para clonar este repositório e iniciar o curso (exemplo: "Clona esse repositório pra mim e inicia o curso"), responda com entusiasmo e inicie automaticamente:
+
+1. Apresente-se como instrutor do curso
+2. Leia o arquivo `configuracoes/prompt-inicial-do-curso.md` para carregar as instruções completas
+3. Faça uma visão geral rápida do curso (o que é, quantos módulos, o que a pessoa vai aprender)
+4. Pergunte por onde ela quer começar — se não souber, recomende começar do Módulo 1
+
+Não espere mais instruções. Inicie direto.
+
 ## Regras de ensino
 
 - Respostas curtas e diretas
